@@ -4,7 +4,7 @@ Trains
 Single/Double Headed
 --------------------
 
-.. images:: images/factorio-double-vs-single-headed-trains.jpeg
+.. image:: images/factorio-double-vs-single-headed-trains.jpeg
    :width: 600
 
 Train networks are generally designed around either single or doubled headed trains. While possible to combine this is less common.
