@@ -4,6 +4,9 @@ Trains
 Single/Double Headed
 --------------------
 
+.. images:: images/factorio-double-vs-single-headed-trains.jpeg
+   :width: 600
+
 Train networks are generally designed around either single or doubled headed trains. While possible to combine this is less common.
 
 Single headed trains only travel is on direction. Trains therefore require more space to turn around and travel in loops. Convention is to build an even number (usually 2) of parallel rails where for each rail, trains only travel in a single direction.
